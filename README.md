@@ -13,7 +13,7 @@ Datasets
 -----------------------------------------------------------------------------
 * [MORPH II](https://uncw.edu/oic/tech/morph.html)
 * [CACD](https://bcsiriuschen.github.io/CARC/)
-* [FG-NET](https://yanweifu.github.io/FG NET data/)
+* [FG-NET](https://yanweifu.github.io/FG_NET_data/)
 
 Dependencies
 -----------------------------------------------------------------------------
