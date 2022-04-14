@@ -35,3 +35,15 @@ Use the following command for evaluation.
 ```c
 
 ```
+
+
+@article{kang2020heuristic,
+  title={A heuristic neural network structure relying on fuzzy logic for images scoring},
+  author={Kang, Cheng and Yu, Xiang and Wang, Shui-Hua and Guttery, David S and Pandey, Hari Mohan and Tian, Yingli and Zhang, Yu-Dong},
+  journal={IEEE transactions on fuzzy systems},
+  volume={29},
+  number={1},
+  pages={34--45},
+  year={2020},
+  publisher={IEEE}
+}
