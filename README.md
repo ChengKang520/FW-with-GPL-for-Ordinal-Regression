@@ -23,7 +23,7 @@ Dependencies
 
 Preprocessing
 -----------------------------------------------------------------------------
-We use and borrow the codes for face detection and face alignment from [SSR-Net](https://github.com/shamangary/SSR-Net) which is provided by [pyimagesearch](https://github.com/shamangary) for face alignment.
+We use and borrow the codes for face detection and face alignment from [SSR-Net](https://github.com/shamangary/SSR-Net) which is provided by [Tsun-Yi Yang](https://github.com/shamangary) for face alignment.
 
 Pretrained Models and Reference Lists
 -----------------------------------------------------------------------------
