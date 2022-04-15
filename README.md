@@ -39,9 +39,9 @@ Use the following command for evaluation.
 
 ## Reference
 
-__Note__: If you use this repository in your research, we kindly request you to cite the [following paper](https://ieeexplore.ieee.org/abstract/document/8957449):
+__Note__: If you use this repository in your research, we kindly request you to cite [following papers](https://ieeexplore.ieee.org/abstract/document/8957449):
 
-* Kang, C., Yu, X., Wang, S. H., Guttery, D., Pandey, H., Tian, Y., & Zhang, Y. (2020). A heuristic neural network structure relying on fuzzy logic for images scoring. IEEE Transactions on Fuzzy Systems..
+* [Kang, C., Yu, X., Wang, S. H., Guttery, D., Pandey, H., Tian, Y., & Zhang, Y. (2020). A heuristic neural network structure relying on fuzzy logic for images scoring. IEEE Transactions on Fuzzy Systems.](https://ieeexplore.ieee.org/abstract/document/8957449)
 
 Bibtex:
 
